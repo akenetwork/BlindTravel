@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /history1/
+permalink: /history/
 ---
 <h1> ยินดีต้อนรับเข้าสู่หน้าประวัติของคุณเอกลักษณ์ พรมชาติค่ะ </h1>
 <section> 
