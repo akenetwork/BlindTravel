@@ -3,8 +3,6 @@ layout: page
 title:
 permalink: /history1/
 ---
-<html>
-<body>
 <h1> ยินดีต้อนรับเข้าสู่หน้าประวัติของคุณเอกลักษณ์ พรมชาติค่ะ </h1>
 <section> 
 <h2>ข้อมูลเบื้องต้น  </h2>
@@ -47,5 +45,3 @@ permalink: /history1/
 </p>
 </article>
 </section>
-</body>
-</html>
