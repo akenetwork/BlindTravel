@@ -1,2 +1,0 @@
-# BlindTravel
-Blind travel guide
