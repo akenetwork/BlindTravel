@@ -1,3 +1,8 @@
+---
+layout: page
+title:
+permalink: /history1/
+---
 <html>
 <body>
 <h1> ยินดีต้อนรับเข้าสู่หน้าประวัติของคุณเอกลักษณ์ พรมชาติค่ะ </h1>
@@ -13,18 +18,18 @@
 </article>
 </section>
 <section>
-<h2> Work </h2>
+<h2> การทำงาน </h2>
 <article>
 <header>
-<h3> History of my work </h3>
+<h3> ประวัติการทำงาน </h3>
 </header>
 <p>
-I ever work at advance contact center (Ais Call Center.) Since 2008 to 2013. and then I am musician at Samitivej sukhumvit hospital in 2016.
+เคยทำงานที่ advance contact center  (ais Call center) ตั้งแต่ปี 2007 - 2013 ปี 2016 เป็นนักดนตรีที่ สมิติเวช สุขุมวิทย์ ปัจจุบันประกอบอาชีพส่วนตัว
 </p>
 </article>
 <article>
 <header>
-<h3> Career Goals </h2>
+<h3> สิ่งที่คาดหวังในงานอนาคต </h2>
 </header
 /p>
 I would like to be work at It company. example google eng company, Microsoft, and Apple.
@@ -32,18 +37,15 @@ I would like to be work at It company. example google eng company, Microsoft, an
 </article>
 </section>
 <section>
-<h2> personal Life </h2>
+<h2> ข้อมูลส่วนตัวเพิ่มเติม</h2>
 <article>
 <header>
-<h3> hobbies </h3>
+<h3> งานอดิเรก </h3>
 </header>
 <p>
-I like listen songs, play games, watch movies and travel.
+ชอบฟังเพลง เล่นดนตรี เล่นเกมส์ ท่องเที่ยวไปตามที่ต่างๆ
 </p>
 </article>
 </section>
-</main>
-
 </body>
 </html>
-<!-- <script src="src/lists.js"> </script> -->
